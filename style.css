@@ -1,0 +1,30 @@
+body{
+    background-color: lavender;
+}
+
+.heading{
+    font-size: 20px;
+    width:100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px paleturquoise;
+}
+
+.note{
+    font-size: 14px;
+    color: indianred;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color:teal;
+    background-color: pink;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+}
+
+canvas{
+    border: 5px solid palevioletred;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px darksalmon;
+}
